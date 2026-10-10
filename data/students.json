@@ -1,0 +1,20 @@
+{
+    "2026001": {
+        "student_id": "2026001",
+        "name": "Barry Allan",
+        "course": "Relative Speed Complexity",
+        "gpa": 10.0
+    },
+    "2026002": {
+        "student_id": "2026002",
+        "name": "Alfred Sorries",
+        "course": "Accounting & Finance",
+        "gpa": 9.2
+    },
+    "2026003": {
+        "student_id": "2026003",
+        "name": "Benjimin Connor",
+        "course": "Quantum Physics",
+        "gpa": 8.9
+    }
+}
